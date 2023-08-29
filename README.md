@@ -3,6 +3,7 @@
   <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
     <img src="Andre.svg" style="width: 100%;" alt="Click to see the source">
   </a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Andre3671/274d50c9-82df-4ab5-a786-d32da39ed926.png" /></a>
 </div>
 <!--
 **Andre3671/Andre3671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
